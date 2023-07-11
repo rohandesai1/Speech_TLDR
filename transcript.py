@@ -16,7 +16,6 @@ class Video:
 link = input("Link: ")
 vid = Video(link)
 print(vid.getTranscriptText())
-# aw
 
 """
 
