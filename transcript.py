@@ -16,6 +16,8 @@ class Video:
 link = input("Link: ")
 vid = Video(link)
 print(vid.getTranscriptText())
+# aw
+
 """
 
 url = "https://gpt-summarization.p.rapidapi.com/summarize"
